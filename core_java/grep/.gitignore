@@ -1,0 +1,13 @@
+# Maven
+target/
+dependency-reduced-pom.xml
+
+# Runtime output
+out/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
