@@ -1,0 +1,136 @@
+# Preferred name (Characters only)
+name: "Manyue Javvadi"
+
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_ManyueJavvadi
+
+# Professional summary (client-facing, 80+ words)
+summary: >
+  I am a Databricks Certified Data Engineer with professional experience in
+  software development and a strong foundation in building reliable, scalable
+  data systems. I began my career as a Software Engineer at Cognizant, working on
+  Java-based enterprise applications in the insurance domain, where I gained
+  hands-on experience with structured development practices, SQL-based data
+  access, and production support.
+
+  With a bachelor's degree in Commerce and postgraduate training in Big Data and
+  Applied AI, I bring both technical depth and a strong understanding of business
+  processes and decision-making. I am particularly interested in designing data
+  platforms that support analytics, reporting, and data-driven decisions in
+  large organizations such as banks and enterprise environments.
+
+# Group your skills by level
+skills:
+  proficient:
+    - Java
+    - Python
+    - SQL
+    - PostgreSQL
+    - Linux/Bash
+    - Apache Spark
+    - Docker
+    - Git
+
+  competent:
+    - Databricks
+    - Data Warehousing
+    - ETL/Data Pipelines
+    - Agile/Scrum
+    - Apache Airflow
+
+  familiar:
+    - Hadoop Ecosystem
+    - Cloud Platforms (Azure/GCP)
+    - Machine Learning Concepts
+    - Data Modeling
+    - CI/CD Fundamentals
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    description: >
+      Built a Linux-based monitoring agent to collect CPU and memory usage data,
+      persist system metrics in PostgreSQL, and enable historical analysis using
+      SQL. Designed database schemas, ingestion scripts, and containerized the
+      solution using Docker to support operational visibility.
+
+  - name: "Core Java Applications"
+    git_url: "/core_java"
+    description: >
+      Developed multiple Java backend applications including a grep-style
+      command-line tool for efficiently searching large directory structures
+      using regular expressions. Focused on clean interfaces, modular design,
+      error handling, Maven-based builds, and containerized execution.
+
+  - name: "Python Data Analytics"
+    git_url: "/python_data_analytics"
+    description: >
+      Implemented an end-to-end analytics workflow using PostgreSQL and Python
+      to analyze retail transaction data. Produced revenue trends, order and
+      cancellation analysis, customer behavior insights, and RFM segmentation
+      to support targeted marketing strategies.
+
+# Highlighted projects (required)
+highlighted_projects:
+  - name: "Retail Customer Analytics Platform"
+    git_url: "/python_data_analytics"
+    description: >
+      Designed and delivered a customer analytics solution that transforms raw
+      transactional data into actionable insights, including monthly sales
+      trends, customer activity analysis, and RFM-based customer segmentation
+      for marketing decision support.
+
+# Professional experience
+professional_experience:
+  - title: "Software Engineer"
+    company: "Cognizant Technology Solutions"
+    duration: "Jun 2021 - Sep 2023"
+    description: >
+      Developed and maintained Java-based enterprise applications in the
+      insurance domain. Migrated multiple applications from SVN to GitHub and
+      helped establish CI/CD workflows, improving development productivity.
+      Wrote SQL queries and procedures for reporting and downstream integration,
+      resolved production issues during system upgrades, and mentored new team
+      members through documentation and knowledge sharing.
+
+  - title: "Data Engineer (Consultant)"
+    company: "Jarvis Consulting Group"
+    duration: "Nov 2025 - Present"
+    description: >
+      Working on data engineering projects involving data ingestion, analytics,
+      and pipeline development using Python, SQL, PostgreSQL, and containerized
+      environments for enterprise use cases. Collaborating with senior engineers
+      to deliver production-ready proof-of-concept solutions for clients.
+
+# Education
+education:
+  - school_name: "George Brown College"
+    duration: "2024 - 2025"
+    degree: "Postgraduate Certificate"
+    department: "Applied AI Solutions Development"
+    awards_achievements:
+      - "Graduated with distinction (96%)"
+
+  - school_name: "Georgian College"
+    duration: "2024 - 2024"
+    degree: "Postgraduate Certificate"
+    department: "Big Data Analytics"
+    awards_achievements:
+      - "Graduated with high academic standing (86%)"
+
+  - school_name: "SRM University"
+    duration: "2018 -  2021"
+    degree: "Bachelor of Commerce"
+    department: "Commerce"
+    awards_achievements:
+      - "Graduated with strong academic performance (85%)"
+
+# Optional section
+others:
+  - title: "Certifications"
+    bullets:
+      - "Databricks Certified Data Engineer Associate (2025)"
+      - "AWS Academy Graduate  Cloud Architecting (2024)"
+      - "IBM Enterprise Design Thinking Practitioner (2024)"
+
