@@ -71,6 +71,18 @@ jarvis_projects:
       cancellation analysis, customer behavior insights, and RFM segmentation
       to support targeted marketing strategies.
 
+  - name: "Databricks PySpark Retail Analytics"
+    git_url: "/spark"
+    description: >
+      Re-implemented the London Gift Shop retail analytics solution using
+      Databricks and PySpark to handle larger-scale processing beyond a
+      single-machine Pandas workflow. Ingested the retail dataset into
+      Unity Catalog as a managed table, performed data validation
+      (nulls profiling, cancellation detection, invalid quantity/price checks),
+      and built key business insights using PySpark DataFrames and Spark SQL
+      validation (invoice-level revenue, monthly KPIs, growth, and customer
+      activity insights).
+
 # Highlighted projects (required)
 highlighted_projects:
   - name: "Retail Customer Analytics Platform"

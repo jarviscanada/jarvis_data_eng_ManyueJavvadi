@@ -26,6 +26,9 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_ManyueJavv
 **Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ManyueJavvadi/tree/master/python_data_analytics)]: Implemented an end-to-end analytics workflow using PostgreSQL and Python to analyze retail transaction data. Produced revenue trends, order and cancellation analysis, customer behavior insights, and RFM segmentation to support targeted marketing strategies.
 
 
+**Databricks PySpark Retail Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ManyueJavvadi/tree/master/spark)]: Re-implemented the London Gift Shop retail analytics solution using Databricks and PySpark to handle larger-scale processing beyond a single-machine Pandas workflow. Ingested the retail dataset into Unity Catalog as a managed table, performed data validation (nulls profiling, cancellation detection, invalid quantity/price checks), and built key business insights using PySpark DataFrames and Spark SQL validation (invoice-level revenue, monthly KPIs, growth, and customer activity insights).
+
+
 
 ## Highlighted Projects
 **Retail Customer Analytics Platform** [[GitHub](/python_data_analytics)]: Designed and delivered a customer analytics solution that transforms raw transactional data into actionable insights, including monthly sales trends, customer activity analysis, and RFM-based customer segmentation for marketing decision support.

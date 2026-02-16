@@ -51,6 +51,11 @@
       "description": "Implemented an end-to-end analytics workflow using PostgreSQL and Python to analyze retail transaction data. Produced revenue trends, order and cancellation analysis, customer behavior insights, and RFM segmentation to support targeted marketing strategies.\n",
       "git_url": "/python_data_analytics",
       "name": "Python Data Analytics"
+    },
+    {
+      "description": "Re-implemented the London Gift Shop retail analytics solution using Databricks and PySpark to handle larger-scale processing beyond a single-machine Pandas workflow. Ingested the retail dataset into Unity Catalog as a managed table, performed data validation (nulls profiling, cancellation detection, invalid quantity/price checks), and built key business insights using PySpark DataFrames and Spark SQL validation (invoice-level revenue, monthly KPIs, growth, and customer activity insights).\n",
+      "git_url": "/spark",
+      "name": "Databricks PySpark Retail Analytics"
     }
   ],
   "name": "Manyue Javvadi",
