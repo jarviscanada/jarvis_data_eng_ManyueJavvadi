@@ -17,6 +17,9 @@ With a bachelor's degree in Commerce and postgraduate training in Big Data and A
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_ManyueJavvadi](https://github.com/jarviscanada/jarvis_data_eng_ManyueJavvadi)
 
 
+**Azure Databricks Data Engineering** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ManyueJavvadi/tree/master/databricks)]: Designed and delivered two production-grade data pipelines on Azure Databricks for a fintech client using Medallion Architecture (Bronze - Silver - Gold). The first pipeline ingests financial transaction data from Azure SQL Database via JDBC and ADLS Gen2 via External Location, applies cleaning and enrichment in a silver layer, and produces 14 fraud analysis aggregations in a gold layer powering a live AI/BI dashboard. The second pipeline uses Delta Live Tables to ingest daily stock data from Alpha Vantage API for four equity symbols, computes 7/30/90 day price and volume trend metrics, and refreshes a market intelligence dashboard on a daily schedule. Both pipelines are orchestrated using Databricks Jobs. Encountered and resolved real infrastructure blockers including vCPU quota exhaustion, ADF Unity Catalog compatibility limitations, and large nested JSON ingestion challenges.
+
+
 **Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ManyueJavvadi/tree/master/linux_sql)]: Built a Linux-based monitoring agent to collect CPU and memory usage data, persist system metrics in PostgreSQL, and enable historical analysis using SQL. Designed database schemas, ingestion scripts, and containerized the solution using Docker to support operational visibility.
 
 
@@ -32,6 +35,9 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_ManyueJavv
 
 ## Highlighted Projects
 **Retail Customer Analytics Platform** [[GitHub](/python_data_analytics)]: Designed and delivered a customer analytics solution that transforms raw transactional data into actionable insights, including monthly sales trends, customer activity analysis, and RFM-based customer segmentation for marketing decision support.
+
+
+**Azure Databricks Data Engineering** [[GitHub](/databricks)]: Built two end-to-end data pipelines on Azure Databricks for a fintech client. The first delivers a fraud analytics platform using Medallion Architecture, ingesting 15M+ financial transactions through JDBC and ADLS Gen2, enriching and aggregating data across bronze, silver, and gold layers, and serving results through a live dashboard. The second uses Delta Live Tables to automate daily stock market data ingestion from Alpha Vantage API, computing multi-window price and volume trend metrics for a market intelligence dashboard refreshed automatically each morning.
 
 
 
