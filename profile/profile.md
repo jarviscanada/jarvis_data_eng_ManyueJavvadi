@@ -6,9 +6,9 @@ With a bachelor's degree in Commerce and postgraduate training in Big Data and A
 
 ## Skills
 
-**Proficient:** Java, Python, SQL, PostgreSQL, Linux/Bash, Apache Spark, Docker, Git
+**Proficient:** Databricks, Java, Python, SQL, PostgreSQL, Linux/Bash, Apache Spark, Git
 
-**Competent:** Databricks, Data Warehousing, ETL/Data Pipelines, Agile/Scrum, Apache Airflow
+**Competent:** Data Warehousing, ETL/Data Pipelines, Agile/Scrum, Docker, Apache Airflow
 
 **Familiar:** Hadoop Ecosystem, Cloud Platforms (Azure/GCP), Machine Learning Concepts, Data Modeling, CI/CD Fundamentals
 
@@ -37,7 +37,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_ManyueJavv
 **Retail Customer Analytics Platform** [[GitHub](/python_data_analytics)]: Designed and delivered a customer analytics solution that transforms raw transactional data into actionable insights, including monthly sales trends, customer activity analysis, and RFM-based customer segmentation for marketing decision support.
 
 
-**Azure Databricks Data Engineering** [[GitHub](/databricks)]: Built two end-to-end data pipelines on Azure Databricks for a fintech client. The first delivers a fraud analytics platform using Medallion Architecture, ingesting 15M+ financial transactions through JDBC and ADLS Gen2, enriching and aggregating data across bronze, silver, and gold layers, and serving results through a live dashboard. The second uses Delta Live Tables to automate daily stock market data ingestion from Alpha Vantage API, computing multi-window price and volume trend metrics for a market intelligence dashboard refreshed automatically each morning.
+**DevAstroAI  Full-Stack AI Platform** [[GitHub](/https://devastroai.vercel.app/)]: Built and deployed a production-grade AI-powered web application from scratch. Backend - FastAPI (Python) integrated with Swiss Ephemeris for complex astronomical computations, served via Railway. Frontend - Next.js deployed on Vercel. AI layer - Anthropic Claude API with structured multi-step prompt engineering to produce domain-specific bilingual (English + Telugu) analysis outputs. Features include real-time astronomical calculations, multi-topic inference engine, PDF report generation, and a multi-step date-finding algorithm. Designed for extensibility with modular routers, knowledge base injection, and conversation history management. Validated by a domain expert for output accuracy.
 
 
 
