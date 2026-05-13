@@ -111,7 +111,7 @@ highlighted_projects:
       for marketing decision support.
 
   - name: "DevAstroAI  Full-Stack AI Platform"
-    git_url: "/https://devastroai.vercel.app/"  
+    git_url: "/https://devastroai.vercel.app/" 
     description: >
       Built and deployed a production-grade AI-powered web application from
       scratch. Backend - FastAPI (Python) integrated with Swiss Ephemeris for
@@ -123,7 +123,7 @@ highlighted_projects:
       generation, and a multi-step date-finding algorithm. Designed for
       extensibility with modular routers, knowledge base injection, and
       conversation history management. Validated by a domain expert for
-      output accuracy.
+      output accuracy, App is live at https://devastroai.vercel.app/
       
 
 # Professional experience
